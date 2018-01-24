@@ -15,4 +15,4 @@ If you like you can add rules to restrict execution of this extractor to certain
 
 ## Result
 
-<screen shot>
+![fields after extractor](/screenshot/result.jpg)
