@@ -1,0 +1,1 @@
+# Password-Manager-Pro-Syslog-Grok-Pattern
