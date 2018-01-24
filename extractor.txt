@@ -1,0 +1,1 @@
+%{DATA:pmp_servername} %{DATA:pmp_username}:%{DATA:pmp_IP} %{DATA:pmp_optype} %{DATE_YYYYMMDD:pmp_date} %{TIME:pmp_time} %{DATA:pmp_opstatus} %{DATA:pmp_servername} %{DATA:pmp_resource}:(%{DATA:pmp_accountname}:)?%{GREEDYDATA:pmp_reason}
